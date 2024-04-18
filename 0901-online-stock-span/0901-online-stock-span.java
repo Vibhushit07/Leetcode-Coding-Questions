@@ -17,7 +17,6 @@ class StockSpanner {
                 stack.pop();
             }
             count++;
-            System.out.println("c " + count);
             int span = stack.isEmpty() ? count + 1 : (count - stack.peek()[0]);
             stack.push(new int[]{count, price});
             return span;
