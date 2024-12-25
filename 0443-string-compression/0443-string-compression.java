@@ -9,12 +9,9 @@ class Solution {
             } else {
                 len = updateChar(chars, len, count, i - 1);
                 count = 1;
-                System.out.println(len);
             }
         }
-        System.out.println(len);
         len = updateChar(chars, len, count, chars.length - 1);
-        System.out.println(len);
         return len;
     }
     
