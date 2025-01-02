@@ -14,10 +14,6 @@ class Solution {
             }
         }
 
-        for(int i = 0; i < wL; i++) {
-            System.out.println(preSum[i]);
-        }
-
         for(int i = 0; i < qL; i++) {
             int l = queries[i][0], r = queries[i][1];
             if(l == 0) {
