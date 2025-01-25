@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0394-decode-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0394-decode-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
@@ -94,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
