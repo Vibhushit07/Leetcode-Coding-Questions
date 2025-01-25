@@ -20,22 +20,15 @@ class Solution {
                 }
                 int num = Integer.parseInt(n);
 
-                System.out.println("str b: " + str);
-                System.out.println("num " + num);
-
                 for(int j = 0; j < num; j++) {
                     str1 += str;
                 }
-
-                System.out.println("str a: " + str);
 
                 if(st.isEmpty()) {
                     res += str1;
                 } else {
                     st.push(str1);
                 }
-
-                System.out.println("res " + res);
 
             } else {
                 st.push(c + "");
