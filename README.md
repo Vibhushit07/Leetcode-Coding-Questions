@@ -110,20 +110,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1558-course-schedule-iv) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
 | ------- |
