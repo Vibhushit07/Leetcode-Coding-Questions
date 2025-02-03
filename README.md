@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1319-unique-number-of-occurrences) |
