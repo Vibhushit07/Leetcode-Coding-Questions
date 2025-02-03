@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Binary Search
 |  |
 | ------- |
