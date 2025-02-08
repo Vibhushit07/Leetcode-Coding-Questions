@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1319-unique-number-of-occurrences) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
