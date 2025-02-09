@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
+| [2448-count-number-of-bad-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Matrix
 |  |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2448-count-number-of-bad-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2448-count-number-of-bad-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -206,4 +209,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2448-count-number-of-bad-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2448-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->
