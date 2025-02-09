@@ -4,14 +4,16 @@ class Solution {
         long n = nums.length;
         long totalPair = n * (n - 1) / 2;
         HashMap<Integer, Long> diffCount = new HashMap<>();
+        long c = 0;
 
         for(int i = 0; i < n; i++) {
             int diff = nums[i] - i;
             Long count = diffCount.getOrDefault(diff, 0L);
-            totalPair -= count;
+            c += count;
+            // totalPair -= count;
             diffCount.put(diff, count + 1);
         }
 
-        return totalPair;
+        return totalPair - c;
     }
 }
