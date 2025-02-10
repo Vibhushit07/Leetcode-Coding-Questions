@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2470-removing-stars-from-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3447-clear-digits) |
 ## String Matching
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3447-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2470-removing-stars-from-a-string) |
+| [3447-clear-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3447-clear-digits) |
 ## Trie
 |  |
 | ------- |
