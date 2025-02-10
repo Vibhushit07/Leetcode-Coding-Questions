@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0238-product-of-array-except-self](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
