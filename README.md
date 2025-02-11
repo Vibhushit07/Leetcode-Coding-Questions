@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1777-determine-if-two-strings-are-close](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2470-removing-stars-from-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0394-decode-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3447-clear-digits) |
