@@ -13,8 +13,6 @@ class Solution {
             if(c == pLast && resLen >= pLen) {
                int j = resLen - 1, k = pLen - 1;
 
-                System.out.println(i + " " + j + " " + k + " " + pLast);
-
                 while(k >= 0 && res[j] == part.charAt(k)) {
                     j--;
                     k--;
