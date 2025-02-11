@@ -13,8 +13,6 @@ class Solution {
                     count++;
                 }
 
-                System.out.println(i + " " + str + " " + count);
-
                 if(!str.equals(part)) {
                     for(int j = 0; j < str.length(); j++) {
                         st.push(str.charAt(j));
