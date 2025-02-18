@@ -23,8 +23,6 @@ class Solution {
             i++;
         }
 
-        System.out.println(res + " " + d);
-
         if(!d.equals("")) {
             d += String.valueOf(i + 1);
             res += reverse(d);
