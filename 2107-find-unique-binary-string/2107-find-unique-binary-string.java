@@ -9,23 +9,31 @@ class Solution {
             hs.add(num);
         }
 
-        binaryString(hs, "", nums.length);
+        return binaryString(hs, "", nums.length);
         
-        return ans;
+        // return ans;
     }
 
-    private Boolean binaryString(HashSet<String> hs, String curr, int n) {
+    private String binaryString(HashSet<String> hs, String curr, int n) {
         if(curr.length() == n && !hs.contains(curr)) {
-            ans = curr;
-            return true;
+            return curr;
         }
 
         if(curr.length() > n)
-            return false;
+            return null;
 
-        if(binaryString(hs, curr + '0', n) || binaryString(hs, curr + '1', n)) 
-            return true;
+        String binary = binaryString(hs, curr + '0', n);
 
-        return false;
+        if(binary != null) {
+            return binary;
+        }
+
+        binary = binaryString(hs, curr + '1', n);
+
+        if(binary != null) {
+            return binary;
+        }
+
+        return null;
     }
 }
