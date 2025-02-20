@@ -25,7 +25,6 @@ class Solution {
 
         if(binaryString(hs, curr + '0', n) || binaryString(hs, curr + '1', n)) 
             return true;
-        // if() return true;
 
         return false;
     }
