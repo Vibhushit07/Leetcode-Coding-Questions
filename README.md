@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1160-letter-tile-possibilities](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1319-unique-number-of-occurrences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1319-unique-number-of-occurrences) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2107-find-unique-binary-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2107-find-unique-binary-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0437-path-sum-iii) |
 | [0904-leaf-similar-trees](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1558-course-schedule-iv) |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1558-course-schedule-iv) |
 ## Binary Tree
@@ -209,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
@@ -241,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
