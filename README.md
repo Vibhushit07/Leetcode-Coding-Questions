@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2448-count-number-of-bad-pairs) |
@@ -141,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2551-apply-operations-to-an-array) |
