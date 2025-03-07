@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1833-find-the-highest-altitude](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
