@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
@@ -253,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -276,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1558-course-schedule-iv) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Topological Sort
 |  |
