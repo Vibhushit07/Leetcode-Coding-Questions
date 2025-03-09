@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
