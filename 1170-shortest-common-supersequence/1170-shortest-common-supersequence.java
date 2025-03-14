@@ -5,12 +5,12 @@ class Solution {
 
         int dp[][] = new int[n1 + 1][n2 + 1];
 
-        for(int i = n2 - 1; i >= 0; i--) {
-            for(int j = n1 - 1; j >= 0; j--) {
-                if(str1.charAt(j) == str2.charAt(i)) {
-                    dp[j][i] = dp[j + 1][i + 1] + 1;
+        for(int i = n1 - 1; i >= 0; i--) {
+            for(int j = n2 - 1; j >= 0; j--) {
+                if(str1.charAt(i) == str2.charAt(j)) {
+                    dp[i][j] = dp[i + 1][j + 1] + 1;
                 } else {
-                    dp[j][i] = Math.max(dp[j + 1][i], dp[j][i + 1]);
+                    dp[i][j] = Math.max(dp[i + 1][j], dp[i][j + 1]);
                 }
             }
         }
