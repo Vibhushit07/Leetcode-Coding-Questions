@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1319-unique-number-of-occurrences) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
