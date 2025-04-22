@@ -1,15 +1,15 @@
 class Solution {
 
-
     public int maxSum(int[] nums) {
+        Arrays.sort(nums);
         int n = nums.length, maxSum = -1;
-        int[] digits = getLargestDigits(nums);
+        HashMap<Integer, List<Integer>> digits = getLargestDigits(nums);
 
-        for(int i = 0; i < n; i++) {
-            for(int j = i + 1; j < n; j++) {
-                if(digits[i] == digits[j]) {
-                    maxSum = Math.max(maxSum, nums[i] + nums[j]);
-                }
+        for(Map.Entry<Integer, List<Integer>> map : digits.entrySet()) {
+            List<Integer> list = map.getValue();
+            int size = list.size();
+            if(size >= 2) {
+                maxSum = Math.max(maxSum, list.get(size - 1) + list.get(size - 2));
             }
         }
 
@@ -17,9 +17,10 @@ class Solution {
 
     }
     
-    private int[] getLargestDigits(int[] nums) {
+
+    private HashMap<Integer, List<Integer>> getLargestDigits(int[] nums) {
         int n = nums.length;
-        int digits[] = new int[n];
+        HashMap<Integer, List<Integer>> digits = new HashMap<>();
 
         for(int i = 0; i < n; i++) {
 
@@ -32,10 +33,11 @@ class Solution {
                 lD = Math.max(d, lD);
             }
 
-            digits[i] = lD;
+            List<Integer> list = digits.getOrDefault(lD, new ArrayList<>());
+            list.add(nums[i]);
+            digits.put(lD, list);
         }
 
         return digits;
     }
-
 }
