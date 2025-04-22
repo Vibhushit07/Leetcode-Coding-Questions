@@ -1,26 +1,39 @@
 class Solution {
 
-    public int maxSum(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length, maxSum = -1;
-        HashMap<Integer, List<Integer>> digits = getLargestDigits(nums);
+    class Pair {
+        int first, second;
 
-        for(Map.Entry<Integer, List<Integer>> map : digits.entrySet()) {
-            List<Integer> list = map.getValue();
-            int size = list.size();
-            if(size >= 2) {
-                maxSum = Math.max(maxSum, list.get(size - 1) + list.get(size - 2));
+        Pair(int f, int s) {
+            first = f;
+            second = s;
+        }
+
+        int getFirst() {
+            return first;
+        }
+
+        int getSecond() {
+            return second;
+        }
+    }
+
+    public int maxSum(int[] nums) {
+        int n = nums.length, maxSum = -1;
+        HashMap<Integer, Pair> digits = getLargestDigitsPair(nums);
+
+        for(Map.Entry<Integer, Pair> map : digits.entrySet()) {
+             Pair pair = map.getValue();
+            if(pair.first != -1) {
+                maxSum = Math.max(maxSum, pair.getFirst() + pair.getSecond());
             }
         }
 
         return maxSum;
-
     }
     
-
-    private HashMap<Integer, List<Integer>> getLargestDigits(int[] nums) {
+    private HashMap<Integer, Pair> getLargestDigitsPair(int[] nums) {
         int n = nums.length;
-        HashMap<Integer, List<Integer>> digits = new HashMap<>();
+        HashMap<Integer, Pair> digits = new HashMap<>();
 
         for(int i = 0; i < n; i++) {
 
@@ -33,11 +46,20 @@ class Solution {
                 lD = Math.max(d, lD);
             }
 
-            List<Integer> list = digits.getOrDefault(lD, new ArrayList<>());
-            list.add(nums[i]);
-            digits.put(lD, list);
+            Pair pair = digits.getOrDefault(lD, new Pair(-1, -1));
+
+            if(pair.getSecond() < nums[i]) {
+                pair.first = pair.second;
+                pair.second = nums[i];
+
+            } else if (pair.getFirst() < nums[i]) {
+                pair.first = nums[i];
+            }
+
+            digits.put(lD, pair);
         }
 
         return digits;
     }
+
 }
