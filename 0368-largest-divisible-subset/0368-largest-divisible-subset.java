@@ -33,7 +33,7 @@ class Solution {
 
         res.add(nums[lastInd]);
 
-        Collections.sort(res);
+        Collections.reverse(res);
         return res;
 
     }
