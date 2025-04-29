@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
+| [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0724-find-pivot-index) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0871-keys-and-rooms) |
@@ -339,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1036-rotting-oranges) |
@@ -372,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0871-keys-and-rooms) |
 | [1558-course-schedule-iv](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1558-course-schedule-iv) |
@@ -493,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0547-number-of-provinces) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2793-count-the-number-of-complete-components) |
@@ -519,4 +525,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3548-find-the-count-of-good-integers) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
