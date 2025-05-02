@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0868-push-dominoes) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0443-string-compression) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1160-letter-tile-possibilities) |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1236-n-th-tribonacci-number) |
