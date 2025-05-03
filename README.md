@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1036-rotting-oranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1319-unique-number-of-occurrences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -472,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2636-maximum-subsequence-score](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2681-put-marbles-in-bags) |
