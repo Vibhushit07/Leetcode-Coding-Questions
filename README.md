@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1170-shortest-common-supersequence) |
