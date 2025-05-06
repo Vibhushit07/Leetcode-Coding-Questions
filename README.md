@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2048-build-array-from-permutation](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2470-removing-stars-from-a-string) |
