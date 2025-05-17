@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0283-move-zeroes) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0238-product-of-array-except-self) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1777-determine-if-two-strings-are-close) |
