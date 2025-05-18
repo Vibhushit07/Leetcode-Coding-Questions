@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1250-longest-common-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
