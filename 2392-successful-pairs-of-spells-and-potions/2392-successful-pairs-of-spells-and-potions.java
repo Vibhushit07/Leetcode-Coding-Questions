@@ -10,7 +10,7 @@ class Solution {
             int max = 0;
 
             while(l <= r) {
-                int mid = l + (r - l) / 2;
+                int mid = (r + l) / 2;
                 if((long) spells[i] * potions[mid] >= success) {
                     r = mid - 1;
                 } else {
