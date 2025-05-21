@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0015-3sum) |
+| [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0162-find-peak-element) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -265,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
 | [1036-rotting-oranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1036-rotting-oranges) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
