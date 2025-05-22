@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0394-decode-string) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0208-implement-trie-prefix-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -336,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -470,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2413-smallest-number-in-infinite-set) |
