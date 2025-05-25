@@ -1,7 +1,7 @@
 class Solution {
     public int longestPalindrome(String[] words) {
         HashMap<String, Integer> freqMap = new HashMap<>();
-        String res = "";
+        int len = 0;
         boolean oddUsed = false;
 
         for (String word : words) {
@@ -18,22 +18,22 @@ class Solution {
             }
 
             if (!word.equals(rev) && wordcount > 0 && revCount > 0) {
-                res = word + res + rev;
+                len += 4;
                 freqMap.put(word, wordcount - 1);
                 freqMap.put(rev, revCount - 1);
 
             } else if (word.equals(rev) && wordcount >= 2) {
-                res = word + res + word;
+                len += 4;
                 freqMap.put(word, wordcount - 2);
 
             } else if (word.equals(rev) && wordcount > 0 && !oddUsed) {
-                res = res.substring(0, res.length() / 2) + word + res.substring(res.length() / 2);
+                len += 2;
                 freqMap.put(word, wordcount - 1);
                 oddUsed = true;
             }
         }
 
-        return res.length();
+        return len;
     }
 
     private String reverse(String str) {
