@@ -10,12 +10,6 @@ class Solution {
         }
 
         for(int i = 9; i >= 0; i--) {
-            System.out.print(freq[i] + " ");
-        }
-
-        System.out.println();
-
-        for(int i = 9; i >= 0; i--) {
             if(sb.isEmpty() && center == - 1 && i == 0) {
                 return "0";
             }
