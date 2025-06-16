@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2107-find-unique-binary-string) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
