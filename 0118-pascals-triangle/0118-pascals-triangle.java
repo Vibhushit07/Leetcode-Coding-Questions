@@ -2,11 +2,6 @@ class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> pascal = new ArrayList<>();
 
-        // List<Integer> row = new ArrayList<>();
-        // row.add(1);
-
-        // pascal.add(row);
-
         for(int i = 0; i < numRows; i++) {
             List<Integer> row = new ArrayList<>();
             row.add(1);
