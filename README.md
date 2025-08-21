@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0605-can-place-flowers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0747-min-cost-climbing-stairs) |
@@ -567,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0326-power-of-three](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0679-24-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
