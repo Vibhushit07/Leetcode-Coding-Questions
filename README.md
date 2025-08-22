@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3430-count-days-without-meetings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3483-alternating-groups-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2428-equal-row-and-column-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2428-equal-row-and-column-pairs) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
