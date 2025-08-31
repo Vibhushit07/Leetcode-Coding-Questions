@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1036-rotting-oranges) |
@@ -628,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
