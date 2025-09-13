@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3617-find-the-original-typed-string-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String Matching
 |  |
 | ------- |
@@ -323,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
@@ -397,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
