@@ -328,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-find-the-count-of-good-integers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3678-design-task-manager) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -570,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -585,11 +587,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
