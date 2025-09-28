@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
+| [1018-largest-perimeter-triangle](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -618,6 +620,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1236-n-th-tribonacci-number](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -655,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
+| [1018-largest-perimeter-triangle](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1448-maximum-69-number) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
