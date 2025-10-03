@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0498-diagonal-traverse) |
 | [0605-can-place-flowers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0643-maximum-average-subarray-i) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0037-sudoku-solver](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0498-diagonal-traverse) |
 | [1036-rotting-oranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -503,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
+| [0407-trapping-rain-water-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1036-rotting-oranges) |
@@ -596,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
