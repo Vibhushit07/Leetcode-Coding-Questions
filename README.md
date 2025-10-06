@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0830-largest-triangle-area) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1628-count-submatrices-with-all-ones) |
@@ -487,6 +490,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -507,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -600,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -719,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0547-number-of-provinces) |
+| [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
