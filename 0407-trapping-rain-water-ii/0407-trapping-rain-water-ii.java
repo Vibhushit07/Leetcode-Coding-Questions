@@ -1,42 +1,48 @@
-import java.util.PriorityQueue;
-
 class Solution {
     public int trapRainWater(int[][] heightMap) {
         int m = heightMap.length, n = heightMap[0].length;
-        if (m < 3 || n < 3)
-            return 0;
+        int water = 0;
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> a[0] - b[0]);
+        PriorityQueue<int[]> boundary = new PriorityQueue<>(Comparator.comparingInt(a -> a[2]));
         boolean[][] visited = new boolean[m][n];
 
-        for (int i = 0; i < m; i++) {
-            pq.offer(new int[] { heightMap[i][0], i, 0 });
-            pq.offer(new int[] { heightMap[i][n - 1], i, n - 1 });
-            visited[i][0] = visited[i][n - 1] = true;
+        int x[] = {-1, 1, 0, 0};
+        int y[] = {0, 0, -1, 1};
+
+        for(int i = 0; i < m; i++) {
+            boundary.add(new int[]{i, 0, heightMap[i][0]});
+            visited[i][0] = true;
+
+            boundary.add(new int[]{i, n - 1, heightMap[i][n - 1]});
+            visited[i][n - 1] = true;
         }
-        for (int j = 0; j < n; j++) {
-            pq.offer(new int[] { heightMap[0][j], 0, j });
-            pq.offer(new int[] { heightMap[m - 1][j], m - 1, j });
-            visited[0][j] = visited[m - 1][j] = true;
+
+        for(int i = 0; i < n; i++) {
+            boundary.add(new int[]{0, i, heightMap[0][i]});
+            visited[0][i] = true;
+
+            boundary.add(new int[]{m - 1, i, heightMap[m - 1][i]});
+            visited[m - 1][i] = true;
         }
 
-        int result = 0;
-        int[][] directions = { { 0, 1 }, { 1, 0 }, { 0, -1 }, { -1, 0 } };
+        while(!boundary.isEmpty()) {
+            int[] cell = boundary.poll();
+            int i = cell[0], j = cell[1], height = cell[2];
 
-        while (!pq.isEmpty()) {
-            int[] cell = pq.poll();
-            int height = cell[0], x = cell[1], y = cell[2];
+            for(int k = 0; k < 4; k++) {
+                int i_ = i + x[k];
+                int j_ = j + y[k];
 
-            for (int[] dir : directions) {
-                int nx = x + dir[0], ny = y + dir[1];
-                if (nx >= 0 && ny >= 0 && nx < m && ny < n && !visited[nx][ny]) {
-                    result += Math.max(0, height - heightMap[nx][ny]);
-                    pq.offer(new int[] { Math.max(height, heightMap[nx][ny]), nx, ny });
-                    visited[nx][ny] = true;
+                if(i_ >= 0 && i_ < m && j_ >= 0 && j_ < n && !visited[i_][j_]) {
+                    water += Math.max(height - heightMap[i_][j_], 0);
+                    visited[i_][j_] = true;
+
+                    boundary.add(new int[]{i_, j_, 
+                        Math.max(height, heightMap[i_][j_])});
                 }
             }
         }
 
-        return result;
+        return water;
     }
 }
