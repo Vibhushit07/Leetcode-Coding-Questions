@@ -1,27 +1,45 @@
 class Solution {
-    private int[] primes = {1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97};
-    private int mod = 1000000007;
+    public List<String> removeAnagrams(String[] words) {
+        List<String> result = new ArrayList<>();
+        Map<Integer, int[]> hm = new HashMap<>();
+        result.add(words[0]);
+        int[] freq =  getFreq(words[0]);
+        hm.put(0, freq);
 
-    private int normal(String s) {
-        long res = 1;
-        for (char c : s.toCharArray())
-            res = (res * primes[c - 'a']) % mod;
-        return (int) res;
+        for(int i = 1; i < words.length; i++) {
+            int[] freq1 = getFreq(words[i]);
+
+            int[] freq2 = hm.get(result.size() - 1);
+
+            if(!checkAnagram(freq1, freq2)) {
+                result.add(words[i]);
+                hm.put(result.size() - 1, freq1);
+            } 
+
+        }
+
+        return result;
     }
 
-    public List<String> removeAnagrams(String[] words) {
-        List<String> res = new ArrayList<>();
-        res.add(words[0]);
-        int prev = normal(words[0]);
+    private int[] getFreq(String word) {
+        int[] freq = new int[26];
 
-        for (int i = 1; i < words.length; i++) {
-            int key = normal(words[i]);
-            if (key != prev) {
-                res.add(words[i]);
-                prev = key;
+        for(char c : word.toCharArray()) {
+            freq[c - 'a']++;
+        }
+
+        return freq;
+    }
+
+    private boolean checkAnagram(int[] freq1, int[] freq2) {
+        int count = 0;
+
+        for(int i = 0; i < 26; i++) {
+            if(freq1[i] == freq2[i]) {
+                count++;
             }
         }
 
-        return res;
+        return count == 26;
     }
 }
