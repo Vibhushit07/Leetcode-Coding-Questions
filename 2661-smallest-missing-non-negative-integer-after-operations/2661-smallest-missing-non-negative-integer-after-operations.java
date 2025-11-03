@@ -1,12 +1,26 @@
 class Solution {
     public int findSmallestInteger(int[] nums, int value) {
-        int n = nums.length, res = 0;
-        int[] rem = new int[value];
-        for (int x : nums) {
-            int r = ((x % value) + value) % value;
-            rem[r]++;
+        Map<Integer, Integer> freq = new HashMap<>();
+        int MEX = 0;
+
+        for(int n : nums) {
+            if(n >= 0) {
+                freq.put(n % value, freq.getOrDefault(n % value, 0) + 1); 
+            } else {
+                int num = ((n % value) + value) % value;
+                freq.put(num, freq.getOrDefault(num, 0) + 1); 
+            }
         }
-        while (rem[res % value]-- > 0) res++;
-        return res;
+
+        while(true) {
+            if(freq.getOrDefault(MEX % value, 0) == 0) {
+                return MEX;
+            } else {
+                int n = MEX % value;
+                freq.put(n, freq.getOrDefault(n, 0) - 1); 
+            }
+
+            MEX++;
+        }
     }
 }
