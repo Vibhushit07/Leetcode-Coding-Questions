@@ -1,15 +1,25 @@
 class Solution {
     public int maxDistinctElements(int[] nums, int k) {
-        Arrays.sort(nums);
-        int ans = 0, prev = (int)-1e9;
+       int n = nums.length;
 
-        for (int x : nums) {
-            int l = Math.max(x - k, prev + 1);
-            if (l <= x + k) {
-                prev = l;
-                ans++;
+        Arrays.sort(nums);
+
+        int count = 0;
+        int prev = Integer.MIN_VALUE;
+
+        for (int i = 0; i < n; i++) {
+            int minVal = nums[i] - k;
+
+            if (prev < minVal) {
+                prev = minVal;
+                count++;
+            } else if (prev < nums[i] + k) {
+                prev = prev + 1;
+                count++;
             }
         }
-        return ans;
+
+        return count;
     }
+    
 }
