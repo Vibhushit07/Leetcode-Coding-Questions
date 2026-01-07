@@ -15,18 +15,13 @@
  */
 class Solution {
 
-    long totalSum = 0;
-    List<Long> allSums = new ArrayList<>();
-
     public int maxProduct(TreeNode root) {
-        totalSum = calculateSum(root);
-        long maxProd = 1L;
+        long totalSum = calculateSum(root);
+        long[] maxProd = new long[]{1L};
 
-        for(long sum : allSums) {
-            maxProd = Math.max(sum * (totalSum - sum), maxProd);
-        }
+        findMaxProd(root, totalSum, maxProd);
 
-        return (int) (maxProd % 1_000_000_007);
+        return (int) (maxProd[0] % 1_000_000_007);
     }
 
     private long calculateSum(TreeNode root) {
@@ -36,7 +31,17 @@ class Solution {
             + calculateSum(root.left)
             + calculateSum(root.right);
 
-        allSums.add(currSum);
+        return currSum;
+    }
+
+    private long findMaxProd(TreeNode root, long totalSum, long[] maxProd) {
+        if(root == null) return 0;
+
+        long currSum = root.val 
+            + findMaxProd(root.left, totalSum, maxProd)
+            + findMaxProd(root.right, totalSum, maxProd);
+
+        maxProd[0] = Math.max(currSum * (totalSum - currSum), maxProd[0]);
 
         return currSum;
     }
