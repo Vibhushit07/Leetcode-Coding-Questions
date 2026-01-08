@@ -2,27 +2,44 @@ class Solution {
 
     int MIN_VAL = -10000000;
     public int maxDotProduct(int[] nums1, int[] nums2) {
-        int dp[][] = new int[nums1.length][nums2.length];
+        int n = nums1.length, m = nums2.length;
 
-        dp[0][0] = nums1[0] * nums2[0];
+        if (n < m) {
+            return solve(nums1, nums2);
+        } else {
+            return solve(nums2, nums1);
+        }
+        
+    }
 
-        for(int j = 1; j < nums2.length; j++) {
-            dp[0][j] = Math.max(dp[0][j - 1], nums1[0] * nums2[j]);
+    private int solve(int[] nums1, int[] nums2) {
+        int n = nums1.length, m = nums2.length;
+
+        int dp[] = new int[m];
+
+        dp[0] = nums1[0] * nums2[0];
+
+        for(int j = 1; j < m; j++) {
+            dp[j] = Math.max(dp[j - 1], nums1[0] * nums2[j]);
         }
 
-        for(int i = 1; i < nums1.length; i++) {
-            dp[i][0] = Math.max(dp[i -  1][0], nums1[i] * nums2[0]);
-        }
+        for(int i = 1; i < n; i++) {
+            int prev = dp[0];
 
-        for (int i = 1; i < nums1.length; i++) {
-            for (int j = 1; j < nums2.length; j++) {
+            dp[0] = Math.max(dp[0], nums1[i] * nums2[0]);
+
+            for(int j = 1; j < m; j++) {
+                int temp = dp[j];
 
                 int currProd = nums1[i] * nums2[j];
-                int takeBoth = currProd + Math.max(0, dp[i - 1][j - 1]);
-                dp[i][j] = Math.max(takeBoth, Math.max(dp[i - 1][j], dp[i][j - 1]));
+                int takeBoth = currProd + Math.max(0, prev);
+
+                dp[j] = Math.max(takeBoth, Math.max(dp[j], dp[j - 1]));
+
+                prev = temp;
             }
         }
 
-        return dp[nums1.length - 1][nums2.length - 1];
+        return dp[m - 1];
     }
 }
