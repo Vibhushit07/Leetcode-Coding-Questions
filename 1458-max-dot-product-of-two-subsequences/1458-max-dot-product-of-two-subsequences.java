@@ -2,31 +2,27 @@ class Solution {
 
     int MIN_VAL = -10000000;
     public int maxDotProduct(int[] nums1, int[] nums2) {
-        int memo[][] = new int[nums1.length][nums2.length];
+        int dp[][] = new int[nums1.length][nums2.length];
 
-        for(int[] row : memo) {
-            Arrays.fill(row, MIN_VAL);
+        dp[0][0] = nums1[0] * nums2[0];
+
+        for(int j = 1; j < nums2.length; j++) {
+            dp[0][j] = Math.max(dp[0][j - 1], nums1[0] * nums2[j]);
         }
 
-        return solve(nums1, nums2, 0, 0, memo);
-    }
-
-    private int solve(int[] nums1, int[] nums2, int i, int j, int[][] memo) {
-
-        if(i >= nums1.length || j >= nums2.length) {
-            return MIN_VAL;
+        for(int i = 1; i < nums1.length; i++) {
+            dp[i][0] = Math.max(dp[i -  1][0], nums1[i] * nums2[0]);
         }
 
-        if(memo[i][j] != MIN_VAL) {
-            return memo[i][j];
+        for (int i = 1; i < nums1.length; i++) {
+            for (int j = 1; j < nums2.length; j++) {
+
+                int currProd = nums1[i] * nums2[j];
+                int takeBoth = currProd + Math.max(0, dp[i - 1][j - 1]);
+                dp[i][j] = Math.max(takeBoth, Math.max(dp[i - 1][j], dp[i][j - 1]));
+            }
         }
 
-        int currProd = nums1[i] * nums2[j];
-        int takeBoth = currProd + Math.max(0, solve(nums1, nums2, i + 1, j + 1, memo));
-
-        int skip1 = solve(nums1, nums2, i + 1, j, memo);
-        int skip2 = solve(nums1, nums2, i, j + 1, memo);
-
-        return memo[i][j] = Math.max(takeBoth, Math.max(skip1, skip2));
+        return dp[nums1.length - 1][nums2.length - 1];
     }
 }
