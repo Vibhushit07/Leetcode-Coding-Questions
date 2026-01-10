@@ -14,35 +14,38 @@
  * }
  */
 class Solution {
-    public TreeNode subtreeWithAllDeepest(TreeNode root) {
-        int height = getHeight(root);
 
-        System.out.println(height);
-
-        return getLCA(root, height);
+    class Result {
+        int height;
+        TreeNode node;
+        Result(int height, TreeNode node) {
+            this.height = height;
+            this.node = node;
+        }
     }
 
-    private TreeNode getLCA(TreeNode root, int height) {
-        if(root == null) return null;
+    public TreeNode subtreeWithAllDeepest(TreeNode root) {
+
+        return getLCA(root).node;
+    }
+
+    private Result getLCA(TreeNode root) {
+        if(root == null) return new Result(0, null);
 
         if(root.left == null && root.right == null) {
-            if(height == 1) return root;
-            return null;
+            return new Result(1, root);
         }
 
-        TreeNode left = getLCA(root.left, height - 1);
-        TreeNode right = getLCA(root.right, height - 1);
+        Result left = getLCA(root.left);
+        Result right = getLCA(root.right);
 
-        if(left == null) return right;
-        if(right == null) return left;
+        int height = 1 + Math.max(left.height, right.height);
 
-        return root;
+        if(left.height == right.height) return new Result(height, root);
 
-    }
+        if(left.height > right.height) return new Result(height, left.node);
 
-    private int getHeight(TreeNode root) {
-        if(root == null) return 0;
+        return new Result(height, right.node);
 
-        return 1 + Math.max(getHeight(root.left), getHeight(root.right));
     }
 }
