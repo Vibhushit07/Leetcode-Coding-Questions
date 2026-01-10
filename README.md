@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0443-string-compression) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1006-vowel-spellchecker) |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0868-push-dominoes) |
