@@ -25,33 +25,41 @@ class Solution {
             }
         }
 
-        for(int i = 0; i < m; i++) {
-            for(int j = 0; j < n; j++) {
-                int offset = Math.min(m - i, n - j);
+        int lo = 1, hi = Math.min(m, n);
 
-                int left = 0, right = offset - 1;
+        while(lo <= hi) {
+            int mid = lo + (hi - lo) / 2;
 
-                while(left <= right) {
-                    int mid = left + (right - left) / 2;
+            if(checkSum(prefixSum, m, n, mid, threshold)) {
+                maxSide = mid;
+                lo = mid + 1;
+            } else {
+                hi = mid - 1;
+            }
+        }        
 
-                    int r = i + mid, c = j + mid;
-                    int sum = prefixSum[r][c];
+        return maxSide;
+    }
 
-                    if(i > 0) sum -= prefixSum[i - 1][c];
-                    if(j > 0) sum -= prefixSum[r][j - 1];
-                    if(i > 0 && j > 0) sum += prefixSum[i - 1][j - 1];
+    private boolean checkSum(int[][] prefixSum, int m, int n, int side, int threshold) {
+        if(side == 0) return true;
 
-                    if(sum <= threshold) {
-                        maxSide = Math.max(maxSide, mid + 1);
-                        left = mid + 1;
-                    } else {
-                        right = mid - 1;
-                    }
-                }
+        for(int i = 0; i + side - 1 < m; i++) {
+            for(int j = 0; j + side - 1 < n; j++) {
+                int r = i + side - 1;
+                int c = j + side - 1;
+
+                int sum = prefixSum[r][c];
+
+                if(i > 0) sum -= prefixSum[i - 1][c];
+                if(j > 0) sum -= prefixSum[r][j - 1];
+                if(i > 0 && j > 0) sum += prefixSum[i - 1][j - 1];
+
+                if(sum <= threshold) return true;
             }
         }
 
-        return maxSide;
+        return false;
     }
 
 }
