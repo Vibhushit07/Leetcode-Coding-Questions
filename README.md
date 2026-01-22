@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3336-water-bottles-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3336-water-bottles-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3447-clear-digits) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -654,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -707,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2636-maximum-subsequence-score](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -717,6 +722,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2434-design-a-number-container-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -898,4 +904,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
