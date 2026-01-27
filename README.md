@@ -720,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
@@ -885,6 +886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0399-evaluate-division) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Interactive
 |  |
 | ------- |
@@ -913,4 +915,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
