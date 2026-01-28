@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0037-sudoku-solver) |
+| [0066-plus-one](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -733,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0066-plus-one) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
