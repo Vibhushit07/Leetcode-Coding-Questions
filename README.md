@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2902-max-pair-sum-in-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2902-max-pair-sum-in-an-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -493,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -883,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3548-find-the-count-of-good-integers) |
