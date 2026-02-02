@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2902-max-pair-sum-in-an-array) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -721,6 +724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2636-maximum-subsequence-score](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2636-maximum-subsequence-score) |
 | [2681-put-marbles-in-bags](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2681-put-marbles-in-bags) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
