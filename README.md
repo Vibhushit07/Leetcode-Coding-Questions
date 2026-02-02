@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0498-diagonal-traverse) |
+| [0528-random-pick-with-weight](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0528-random-pick-with-weight) |
 | [0605-can-place-flowers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0679-24-game) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0374-guess-number-higher-or-lower) |
+| [0528-random-pick-with-weight](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0528-random-pick-with-weight) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -310,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0238-product-of-array-except-self) |
+| [0528-random-pick-with-weight](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -748,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
+| [0528-random-pick-with-weight](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0528-random-pick-with-weight) |
 | [0679-24-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1018-largest-perimeter-triangle) |
@@ -934,4 +938,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
