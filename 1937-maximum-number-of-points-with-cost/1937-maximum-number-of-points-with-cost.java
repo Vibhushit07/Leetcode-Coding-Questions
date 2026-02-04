@@ -10,7 +10,6 @@ class Solution {
         for(int i = 1; i < m; i++) {
             long[] left = new long[n];
             long[] right = new long[n];
-            long[] curr = new long[n];
 
             left[0] = prev[0];
             for(int j = 1; j < n; j++) {
@@ -23,10 +22,9 @@ class Solution {
             }
 
             for(int j = 0; j < n; j++) {
-                curr[j] = points[i][j] + Math.max(right[j], left[j]);
+                prev[j] = points[i][j] + Math.max(right[j], left[j]);
             }
 
-            prev = curr;
         }
 
         long res = Long.MIN_VALUE;
