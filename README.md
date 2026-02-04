@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3637-trionic-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3639-zero-array-transformation-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3640-trionic-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3640-trionic-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -366,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3640-trionic-array-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3640-trionic-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
