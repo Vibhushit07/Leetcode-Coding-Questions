@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3379-transformed-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3430-count-days-without-meetings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -480,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-total-cost-to-hire-k-workers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3379-transformed-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3447-clear-digits) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
