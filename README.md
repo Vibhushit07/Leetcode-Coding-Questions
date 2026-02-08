@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0792-number-of-matching-subsequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0868-push-dominoes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1006-vowel-spellchecker) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-number-of-matching-subsequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0830-largest-triangle-area) |
 | [0900-rle-iterator](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0900-rle-iterator) |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0374-guess-number-higher-or-lower) |
 | [0528-random-pick-with-weight](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0528-random-pick-with-weight) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0792-number-of-matching-subsequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -349,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-number-of-matching-subsequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0806-domino-and-tromino-tiling](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -385,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0166-fraction-to-recurring-decimal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0208-implement-trie-prefix-tree) |
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
+| [0792-number-of-matching-subsequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -498,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0539-minimum-time-difference) |
+| [0792-number-of-matching-subsequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [1018-largest-perimeter-triangle](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1200-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -562,6 +568,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0792-number-of-matching-subsequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
