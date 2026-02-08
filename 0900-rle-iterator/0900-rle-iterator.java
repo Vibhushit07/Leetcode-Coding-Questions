@@ -11,22 +11,15 @@ class RLEIterator {
     
     public int next(int n) {
 
-        while(index < length && encoding[index] == 0) {
+        while(index < length && encoding[index] < n) {
+            n -= encoding[index];
+            encoding[index] = 0;
             index += 2;
-        }
+        }    
 
         if(index >= length) return -1;
 
-        int dec = n;
-
-        if(encoding[index] >= dec) {
-            encoding[index] -= dec;
-        } else {
-            dec -= encoding[index];
-            encoding[index] = 0;
-            return next(dec);
-        }
-
+        encoding[index] -= n;
         return encoding[index + 1];
     }
 }
