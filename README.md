@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0830-largest-triangle-area) |
+| [0900-rle-iterator](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0900-rle-iterator) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0900-rle-iterator](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0900-rle-iterator) |
 | [1160-letter-tile-possibilities](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -725,6 +727,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0208-implement-trie-prefix-tree) |
+| [0900-rle-iterator](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0900-rle-iterator) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2169-simple-bank-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2169-simple-bank-system) |
@@ -965,4 +968,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0528-random-pick-with-weight) |
+## Iterator
+|  |
+| ------- |
+| [0900-rle-iterator](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0900-rle-iterator) |
 <!---LeetCode Topics End-->
