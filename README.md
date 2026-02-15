@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1642-water-bottles) |
@@ -716,6 +718,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0067-add-binary) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -788,6 +791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0368-largest-divisible-subset) |
