@@ -15,19 +15,6 @@
  */
 class Solution {
 
-    private TreeNode getLCA(TreeNode root, int startValue, int destValue) {
-        if(root == null || root.val == startValue || root.val == destValue) 
-            return root;
-            
-        TreeNode left = getLCA(root.left, startValue, destValue);
-        TreeNode right = getLCA(root.right, startValue, destValue);
-
-        if(left != null && right != null)
-            return root;
-
-        return left != null ? left : right;
-    }
-
     private boolean findPath(TreeNode root, int target, StringBuilder path) {
         if(root == null) return false;
 
@@ -49,20 +36,25 @@ class Solution {
     }
 
     public String getDirections(TreeNode root, int startValue, int destValue) {
-        TreeNode lca = getLCA(root, startValue, destValue);
 
         StringBuilder lcaToStart = new StringBuilder();
         StringBuilder lcaToDest = new StringBuilder();
         StringBuilder result = new StringBuilder();
 
-        findPath(lca, startValue, lcaToStart);
-        findPath(lca, destValue, lcaToDest);
+        findPath(root, startValue, lcaToStart);
+        findPath(root, destValue, lcaToDest);
 
-        for(int i = 0; i < lcaToStart.length(); i++) {
+        int lca = 0;
+        while(lca < lcaToStart.length() && lca < lcaToDest.length() &&
+            lcaToStart.charAt(lca) == lcaToDest.charAt(lca)) {
+            lca++;
+        }
+
+        for(int i = 0; i < lcaToStart.length() - lca; i++) {
             result.append('U');
         }
 
-        result.append(lcaToDest);
+        result.append(lcaToDest.toString().substring(lca));
         return result.toString();
     }
 }
