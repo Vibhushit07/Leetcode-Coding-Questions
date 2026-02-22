@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1937-maximum-number-of-points-with-cost](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1975-maximum-matrix-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2048-build-array-from-permutation](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2048-build-array-from-permutation) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -522,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-sort-integers-by-the-power-value](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-sort-integers-by-the-power-value) |
 | [1777-determine-if-two-strings-are-close](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -570,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -865,6 +868,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1975-maximum-matrix-sum) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2475-largest-palindromic-number](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2475-largest-palindromic-number) |
@@ -939,6 +943,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
