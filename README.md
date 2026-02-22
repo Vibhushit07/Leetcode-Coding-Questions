@@ -726,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0190-reverse-bits) |
+| [0868-binary-gap](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0868-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2308-divide-array-into-equal-pairs) |
