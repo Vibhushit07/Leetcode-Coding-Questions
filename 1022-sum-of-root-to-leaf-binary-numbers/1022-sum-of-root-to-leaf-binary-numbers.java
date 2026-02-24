@@ -15,26 +15,20 @@
  */
 class Solution {
     public int sumRootToLeaf(TreeNode root) {
-        int[] sum = new int[]{0};
-        binary(root, sum, new StringBuilder());
-        return sum[0];
+        return sum(root, 0);
     }
 
-    private void binary(TreeNode root, int[] sum, StringBuilder bin) {
+    private int sum(TreeNode root, int val) {
         if(root == null) {
-            return;
+            return 0;
         }
 
-        bin.append(root.val);
+        val = (2 * val) + root.val;
 
         if(root.left == null && root.right == null) {
-            sum[0] += Integer.parseInt(bin.toString(), 2);
-            bin.deleteCharAt(bin.length() - 1);
-            return;
+            return val;
         }
 
-        binary(root.left, sum, bin);
-        binary(root.right, sum, bin);
-        bin.deleteCharAt(bin.length() - 1);
+        return sum(root.left, val) + sum(root.right, val);
     }
 }
