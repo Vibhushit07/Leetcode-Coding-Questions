@@ -346,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-largest-magic-square](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1895-largest-magic-square) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3639-zero-array-transformation-i) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1937-maximum-number-of-points-with-cost](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
