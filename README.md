@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-number-of-matching-subsequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0794-swim-in-rising-water](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0830-largest-triangle-area) |
+| [0874-walking-robot-simulation](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0874-walking-robot-simulation) |
 | [0900-rle-iterator](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0900-rle-iterator) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -414,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0768-partition-labels) |
 | [0792-number-of-matching-subsequences](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0792-number-of-matching-subsequences) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0874-walking-robot-simulation) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0940-fruit-into-baskets) |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
