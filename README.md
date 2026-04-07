@@ -514,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1642-water-bottles](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2048-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -799,6 +800,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-rle-iterator](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/0900-rle-iterator) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2169-simple-bank-system) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2413-smallest-number-in-infinite-set) |
 | [2434-design-a-number-container-system](https://github.com/Vibhushit07/Leetcode-Coding-Questions/tree/master/2434-design-a-number-container-system) |
